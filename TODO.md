@@ -1,6 +1,6 @@
 # TODO (루프가 한 회차에 위에서부터 1개씩 처리)
 
-- [ ] 1. `Todo` 타입 정의 (`app/types/todo.ts`)
+- [x] 1. `Todo` 타입 정의 (`app/types/todo.ts`)
 - [ ] 2. localStorage 기반 `useTodos` 훅 작성 (`app/hooks/useTodos.ts`)
 - [ ] 3. 할 일 추가 폼 컴포넌트 (`app/components/TodoForm.tsx`)
 - [ ] 4. 할 일 목록/항목 컴포넌트, 완료 토글·삭제 (`app/components/TodoList.tsx`)
