@@ -9,3 +9,4 @@
 | 2026-11-09 | 3. TodoForm 컴포넌트 | 통과 | sr-only label 제공, 빈 입력 시 추가 버튼 비활성화 |
 | 2026-11-09 | 4. TodoList 컴포넌트 | 통과 | 체크박스+label 연결, 삭제 버튼에 aria-label, 빈 목록 안내 문구 |
 | 2026-11-09 | 5. 필터 및 남은 개수 | 통과 | TodoFilterBar 컴포넌트와 filterTodos/countRemaining 유틸 분리, 화면 조립은 항목 6 |
+| 2026-11-09 | 6. page.tsx 조립 및 스타일링 | 통과 | 필터 상태가 필요해 클라이언트 컴포넌트 TodoApp 추가, page.tsx는 서버 컴포넌트 유지. 레이아웃 제목/lang을 ko로 변경 |
